@@ -1,0 +1,45 @@
+
+HOCs:
+_________________
+doc:
+reactjs.org/docs/higher-order-components.html
+
+
+https://flexiple.com/react/introduction-to-higher-order-components-in-react-by-example/
+javatpoint.com/react-higher-order-components
+
+
+example
+robinwieruch.de/react-higher-order-components/
+https://www.patterns.dev/posts/hoc-pattern/
+______________________________________________
+
+
+Container vs Presentational Components:
+_____
+
+https://medium.com/@jan.hesters/master-higher-order-components-in-react-today-db1075df4617
+freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/
+
+
+example:
+github.com/hootan-rocky/react-container-vs-presentational
+___________________________________________________
+
+
+render props
+______
+https://reactjs.org/docs/render-props.html
+
+
+
+patterns.dev/posts/render-props-pattern/
+______________________________________________
+
+
+Authentication and MaterialUI
+_____________
+https://mui.com/material-ui/getting-started/overview/
+https://jwt.io/
+___________________________________________________
+
